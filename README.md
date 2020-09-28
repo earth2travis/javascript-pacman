@@ -1,6 +1,6 @@
 # Javascript Pacman
 
-[Youtube tutorial](https://www.youtube.com/watch?v=YBtzzVwrTeE) on creating a Vanilla JS Pacman game by Weibenfalk.
+Project created from following along with [Build Pac-Man Game With JavaScript](https://www.youtube.com/watch?v=YBtzzVwrTeE) Youtube tutorial by Weibenfalk.
 
 ## Technologies
 
